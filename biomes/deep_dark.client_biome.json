@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:deep_dark"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "zkv:deep_dark"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#5993ff"
+      },
+      "minecraft:sky_color": {
+                "sky_color": "#0b1849"
+            },
+            "minecraft:atmosphere_identifier": {
+               "atmosphere_identifier": "zkv:sculk_atmosphere"
+            },
+            "minecraft:lighting_identifier": {
+              "lighting_identifier": "zkv:sculk_lighting"
+            },
+            "minecraft:color_grading_identifier": {
+              "color_grading_identifier": "zkv:sculk_grading"
+            }
+    }
+  }
+}

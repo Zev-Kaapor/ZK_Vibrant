@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:deep_cold_ocean"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "zkv:ice_plains"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#5993ff"
+      },
+      "minecraft:sky_color": {
+        "sky_color": [55, 76, 137]
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "zkv:cold_grading"
+      }
+    }
+  }
+}

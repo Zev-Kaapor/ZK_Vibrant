@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:color_grading_settings": {
+    "description": {
+      "identifier": "zkv:end_color_grading"
+    },
+    "color_grading": {
+      "highlights": {
+        "highlightsMin": 20,
+        "enabled": true,
+        "contrast": [1.2, 1.2, 1.2],
+        "saturation": [1.07, 1.07, 1.07],
+        "gain": [0.3, 0.14, 1.2],
+        "offset": [0.0, 0.0, 0.0],
+        "gamma": [3.1, 3.1, 3.1]
+      },
+      "midtones": {
+        "midtonesMax": 60,
+        "contrast": [1.2, 1.2, 1.2],
+        "saturation": [1.07, 1.07, 1.07],
+        "gain": [0.3, 0.14, 1.2],
+        "offset": [0.0, 0.0, 0.0],
+        "gamma": [3.1, 3.1, 3.1]
+      },
+      "shadows": {
+        "shadowsMax": 0.4,
+        "enabled": true,
+        "contrast": [1.2, 1.2, 1.2],
+        "saturation": [1.07, 1.07, 1.07],
+        "gain": [0.3, 0.14, 1.2],
+        "offset": [0.0, 0.0, 0.0],
+        "gamma": [3.1, 3.1, 3.1]
+      }
+    },
+    "tone_mapping": {
+      "operator": "aces"
+    }
+  }
+}

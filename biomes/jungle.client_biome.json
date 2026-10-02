@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:jungle"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "zkv:jungle"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": [55, 76, 137]
+      },
+      "minecraft:sky_color": {
+        "sky_color": [55, 76, 137]
+      }
+    }
+  }
+}

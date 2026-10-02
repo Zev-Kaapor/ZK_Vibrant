@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:mesa"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "zkv:mesa"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4E7F81"
+      },
+      "minecraft:sky_color": {
+                "sky_color": "#ab6328"
+            },
+            "minecraft:atmosphere_identifier": {
+              "atmosphere_identifier": "zkv:mesa_atmosphere"
+            },
+            "minecraft:lighting_identifier": {
+              "lighting_identifier": "zkv:desert_lighting"
+            }
+    }
+  }
+}
